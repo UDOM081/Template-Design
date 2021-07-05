@@ -86,7 +86,7 @@
 }
 .btn2{
     margin-left: 250px;
-    padding: 10px 20px;
+    padding: 0px 30px;
     font-weight: bold;
     color: white;
     border: 1px solid rgb(3, 3, 82);
@@ -190,8 +190,6 @@ h4{
 .follow{
     margin-left: 70%;
     border: 7px solid orange;
-    /* text-align: center; */
-    /* font-weight: lighter; */
     font-size: 15px;
     height: 200px;
     width: 400px;
@@ -199,7 +197,7 @@ h4{
 
 
 /* Media Query */
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:990px) {
     .hero-section{
         height: 300px;
     }
